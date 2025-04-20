@@ -1,1 +1,3 @@
-meu nome é Gusttavo
+👋 Olá, sou o Gusttavo!
+Sou estudante de Engenharia da Computação, apaixonado por tecnologia e buscando sempre aprender mais! 🚀
+Atualmente, estou focado em desenvolvimento de software, infraestrutura de redes e inteligência artificial. Busco sempre aplicar meus conhecimentos em projetos práticos e desafiadores.
